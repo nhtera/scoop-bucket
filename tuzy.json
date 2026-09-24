@@ -1,22 +1,22 @@
 {
-    "version": "0.9.2",
+    "version": "0.9.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nhtera/tuzy/releases/download/v0.9.2/tuzy_0.9.2_windows_amd64.zip",
+            "url": "https://github.com/nhtera/tuzy/releases/download/v0.9.3/tuzy_0.9.3_windows_amd64.zip",
             "bin": [
                 "tuzy.exe"
             ],
-            "hash": "4a6c74b1172bd728d74225348c95a8843a3eab794c261d4bc52da76b8ad8633e"
+            "hash": "a34801988cce74a8a6dfe3163e85ab4dc7e98fd282cf122faa228df72f15df5d"
         },
         "arm64": {
-            "url": "https://github.com/nhtera/tuzy/releases/download/v0.9.2/tuzy_0.9.2_windows_arm64.zip",
+            "url": "https://github.com/nhtera/tuzy/releases/download/v0.9.3/tuzy_0.9.3_windows_arm64.zip",
             "bin": [
                 "tuzy.exe"
             ],
-            "hash": "427866922c35f80ded04f18e75b3d049d9ec15a7f975d1149fd6c753a52c57be"
+            "hash": "7b9837fe9a09b2e1d6d830a3cad96d840b264aa8c43d8bb1203623bb96129718"
         }
     },
     "homepage": "https://tuzy.dev",
     "license": "Apache-2.0",
-    "description": "Expose localhost at a stable https://<name>.tuzy.dev URL"
+    "description": "Expose localhost at a stable https://\u003cname\u003e.tuzy.dev URL"
 }
