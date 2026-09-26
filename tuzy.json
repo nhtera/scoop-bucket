@@ -1,19 +1,19 @@
 {
-    "version": "0.9.4",
+    "version": "0.9.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nhtera/tuzy/releases/download/v0.9.4/tuzy_0.9.4_windows_amd64.zip",
+            "url": "https://github.com/nhtera/tuzy/releases/download/v0.9.5/tuzy_0.9.5_windows_amd64.zip",
             "bin": [
                 "tuzy.exe"
             ],
-            "hash": "879f4f5ab857f517c4135baf89fb7c5d2ebbbf8146bed43abe2e209a0ca0b217"
+            "hash": "218e512032ae961d0af184d5a917b8531f8b960897f8397f74c5685cc956028d"
         },
         "arm64": {
-            "url": "https://github.com/nhtera/tuzy/releases/download/v0.9.4/tuzy_0.9.4_windows_arm64.zip",
+            "url": "https://github.com/nhtera/tuzy/releases/download/v0.9.5/tuzy_0.9.5_windows_arm64.zip",
             "bin": [
                 "tuzy.exe"
             ],
-            "hash": "ae7167b4f0b1a849aced099bc4e8436e0ec330dbf4d50e0381e510fd1a581c37"
+            "hash": "198fe3c05200420daa7af962bab84cbfd928d72ebf1bfeeadc5f427f4900b482"
         }
     },
     "homepage": "https://tuzy.dev",
