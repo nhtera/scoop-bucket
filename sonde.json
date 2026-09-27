@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0-rc.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nhtera/Sonde/releases/download/v1.0.0-rc.1/sonde_1.0.0-rc.1_windows_amd64.zip",
+            "bin": [
+                "sonde.exe"
+            ],
+            "hash": "52cb74d60bdad4cc99d8b8d17deb6c505a868925ea03471fd474a6d66fba0b73"
+        },
+        "arm64": {
+            "url": "https://github.com/nhtera/Sonde/releases/download/v1.0.0-rc.1/sonde_1.0.0-rc.1_windows_arm64.zip",
+            "bin": [
+                "sonde.exe"
+            ],
+            "hash": "fd7dbd802e302e972a15fdaa547ca7bd463eefaa912754008b648136af0bb917"
+        }
+    },
+    "homepage": "https://github.com/nhtera/sonde",
+    "license": "Apache-2.0",
+    "description": "A single-binary HTTP file runner and testing CLI, LSP and VS Code extension"
+}
