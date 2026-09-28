@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nhtera/Sonde/releases/download/v1.2.0/sonde_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/nhtera/Sonde/releases/download/v1.3.0/sonde_1.3.0_windows_amd64.zip",
             "bin": [
                 "sonde.exe"
             ],
-            "hash": "835b22298dedb774fe5ee55b820de123b7ed97e9906fa87824143f3be8caf2f7"
+            "hash": "abcf6688c69d660ed0198653403053e169c9dc424db1ddd79ff527b3524f658e"
         },
         "arm64": {
-            "url": "https://github.com/nhtera/Sonde/releases/download/v1.2.0/sonde_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/nhtera/Sonde/releases/download/v1.3.0/sonde_1.3.0_windows_arm64.zip",
             "bin": [
                 "sonde.exe"
             ],
-            "hash": "28770e232b5597a2b62836b37333f07a50196ba3e5be2fee7263d6a259798ba7"
+            "hash": "d32b61f15289b9abd77514e939cf294810f608460d2a9f6e1b803a7f846c9ec0"
         }
     },
     "homepage": "https://github.com/nhtera/sonde",
